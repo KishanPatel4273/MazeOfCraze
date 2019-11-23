@@ -1,0 +1,6 @@
+res/ground.png collidable:false index:255 255 255
+res/wall.png collidable:true index:0 0 0
+res/projectile.png collidable:true 
+res/closechest.png
+
+
