@@ -25,6 +25,7 @@ public class Button {
 		button.setText(title);
 		button.setVisible(visablity);
 		buttonState = false;
+	//
 	}
 	
 	//state of button visibility is if it is being displayed
